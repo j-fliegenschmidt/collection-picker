@@ -122,7 +122,7 @@ namespace com.romiox.CollectionPicker
 
         /// <summary>
         /// Gets whether an item was selected. If null is an allowed value, this can be used to check
-        /// whether it was a legitimate choice the absence of a choice.
+        /// whether it was a legitimate choice or the absence of a choice.
         /// </summary>
         public Boolean IsItemSelected
         {
